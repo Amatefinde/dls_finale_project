@@ -86,9 +86,7 @@ typing_extensions @ file:///C:/b/abs_5em9ekwz24/croot/typing_extensions_16866020
 tzdata==2023.3
 tzlocal==5.0.1
 urllib3==1.25.3
-visdom @ git+https://github.com/fossasia/visdom@f02a27b5bb4e0af3285d0278801dcde85f64d516
 wcwidth==0.2.6
 websocket-client==1.6.1
 win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
-yandex-images-download==1.0.4
 numpy==1.25.0
