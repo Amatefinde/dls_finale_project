@@ -20,4 +20,5 @@
 
 ### P. S. Сейчас телеграм бот доступен для использования https://t.me/stileviy_bot
 
+![example](https://github.com/iRespectOnlyYen/dls_finale_project/assets/90966720/d4ac743b-f393-40c6-a3bc-0ee11b66dca0)
 
