@@ -6,7 +6,7 @@ from telegram.ext import Updater, MessageHandler, Filters, CallbackQueryHandler,
 from inference import stylize
 
 
-TOKEN = '6352663909:AAE-uWVUZDEO0dpYkvMNRjP_MxUMpIq3p6k'  # Замените на свой токен
+TOKEN = 'your token'  # Замените на свой токен
 
 
 def start(update, context):
