@@ -1,4 +1,5 @@
 # DLS Finale Project (1 семестр, StyleGAN)
+Перенос стиля между доменами (selfie2anime)
 ## Использование
 
 
