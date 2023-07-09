@@ -1,5 +1,6 @@
 # DLS Finale Project (1 семестр, StyleGAN)
-Перенос стиля между доменами (обучены модели для photo2mone и selfie2anime)
+Перенос стиля между доменами. Обучены модели для photo2mone и selfie2anime. Ссылка на использованный датасет - https://drive.google.com/file/d/1lVB3C9KJd3zVtaQsScNOcCwpKb97RaKK/view?usp=sharing
+
 ## Использование
 
 
