@@ -1,3 +1,4 @@
+
 anyio==3.7.1
 APScheduler==3.6.3
 asttokens==2.2.1
@@ -90,3 +91,4 @@ wcwidth==0.2.6
 websocket-client==1.6.1
 win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 yandex-images-download==1.0.4
+numpy==1.25.0
