@@ -20,7 +20,7 @@
 4) Замени параметр TOKEN в файле **telegram_bot.py** на свой токен
 5) Что бы запустить бота просто запустите файл **telegram_bot.py**
 
-### P. S. Сейчас телеграм бот доступен для использования https://t.me/stileviy_bot
+### ~~P. S. Сейчас телеграм бот доступен для использования https://t.me/stileviy_bot~~
 
 ![example](https://github.com/iRespectOnlyYen/dls_finale_project/assets/90966720/d4ac743b-f393-40c6-a3bc-0ee11b66dca0)
 
